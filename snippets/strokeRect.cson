@@ -1,4 +1,4 @@
 '.source.js':
   'Snippet strokeRect':
-    'prefix': 'strokeRect'
+    'prefix': 'sr'
     'body': '${1:ctx}.strokeRect(${2:x}, ${3:y}, ${4:width}, ${5:height});'

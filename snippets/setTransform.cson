@@ -1,4 +1,4 @@
 '.source.js':
   'Snippet setTransform':
-    'prefix': 'tras'
+    'prefix': 'stra'
     'body': '${1:ctx}.setTransform(${2:m11}, ${:3m12}, ${:4m21}, ${:5m22}, ${:6dx}, ${:7dy});'

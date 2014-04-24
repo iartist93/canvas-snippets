@@ -1,4 +1,4 @@
 '.source.js':
   'Snippet rotate':
-    'prefix': 'rotate'
+    'prefix': 'ro'
     'body': '${1:ctx}.rotate(${2:angle});'

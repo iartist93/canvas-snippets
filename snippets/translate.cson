@@ -1,4 +1,4 @@
 '.source.js':
   'Snippet translate':
-    'prefix': 'translate'
+    'prefix': 'trs'
     'body': '${1:ctx}.translate(${2:x}, ${3:y});'

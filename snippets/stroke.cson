@@ -1,4 +1,4 @@
 '.source.js':
   'Snippet stroke':
-    'prefix': 'stroke'
+    'prefix': 'st'
     'body': '${1:ctx}.stroke();'

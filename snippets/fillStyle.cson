@@ -1,5 +1,4 @@
 '.source.js':
   'Snippet FillStyle':
-    'prefix': 'fills'
+    'prefix': 'fs'
     'body': "${1:ctx}.fillStyle = '${2:rgba(255, 255, 255, 1.0)}';"
-    

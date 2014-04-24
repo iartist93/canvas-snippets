@@ -1,4 +1,4 @@
 '.source.js':
   'Snippet textBaseline':
-    'prefix': 'textBaseline'
+    'prefix': 'tb'
     'body': '${1:ctx}.textBaseline = "${2:alphabetic/top/hanging/middle/bottom}";'
