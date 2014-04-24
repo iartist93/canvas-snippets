@@ -1,9 +1,9 @@
 {
   "name": "canvas-snippets",
-  "version": "0.1",
+  "version": "0.0.0",
   "main": "./lib/snippets",
   "description": "Html5 canvas snippets for Atom",
-  "repository": "https://github.com/atom/snippets",
+  "repository": "https://github.com/iartist93/canvas-snippets",
   "license": "MIT",
   "engines": {
     "atom": "*"
