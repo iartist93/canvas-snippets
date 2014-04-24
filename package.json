@@ -1,6 +1,6 @@
 {
   "name": "canvas-snippets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "./lib/snippets",
   "description": "Html5 canvas snippets for Atom",
   "repository": "https://github.com/iartist93/canvas-snippets",
