@@ -1,0 +1,4 @@
+'.source.js':
+  'CanvasSnippet createPattern':
+    'prefix': 'cpat'
+    'body': '${1:ctx}.createPattern(${2:image/canvas}, ${3:repeat/repeat-x/repeat-y/no-repeat});'

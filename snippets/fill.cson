@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet Fill':
+    'prefix': 'fill'
+    'body': '${1:ctx}.fill();'

@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet FillRect':
+    'prefix': 'fillr'
+    'body': '${1:ctx}.fillRect(${2:x}, ${3:y}, ${4:width}, ${5:height});'

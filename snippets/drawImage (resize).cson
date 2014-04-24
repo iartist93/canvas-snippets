@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet drawImage (resize)':
+    'prefix': 'drawr'
+    'body': '${1:ctx}.drawImage(${2:image}, ${3:x}, ${4:y}, ${5:width}, ${6:height});'

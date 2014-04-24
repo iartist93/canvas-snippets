@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet rect':
+    'prefix': 'rect'
+    'body': '${1:ctx}.rect(${2:x}, ${3:y}, ${4:width}, ${5:height});'

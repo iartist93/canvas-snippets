@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet MeasureText':
+    'prefix': 'measure'
+    'body': "${1:ctx}.measureText('${2:text}');"

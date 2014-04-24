@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet transform':
+    'prefix': 'transform'
+    'body': '${1:ctx}.transform(${2:m11}, ${:3m12}, ${:4m21}, ${:5m22}, ${:6dx}, ${:7dy});'

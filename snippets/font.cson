@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet Font':
+    'prefix': 'font'
+    'body': '${1:ctx}.font = "${2:normal/italic/oblique} ${3:normal/small-caps} ${4:normal/bold} ${5:1em/1.5em} ${6:Arial}, ${7:sans-}serif";'

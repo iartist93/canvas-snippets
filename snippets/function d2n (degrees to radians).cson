@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet function d2n (degrees to radians)':
+    'prefix': 'd2r'
+    'body': 'function d2r (d) { return (Math.PI/180)*d; }'

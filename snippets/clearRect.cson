@@ -1,0 +1,4 @@
+'.source.js':
+  'CanvasSnippet clearRect':
+    'prefix': 'crect'
+    'body': '${1:ctx}.clearRect(${2:x}, ${3:y}, ${4:width}, ${5:height});'

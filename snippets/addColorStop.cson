@@ -1,0 +1,7 @@
+#---------- addColorStop() ------------#
+# addc -> tab
+
+'.source.js':
+  'CanvasSnippets addColorStop':
+    'prefix': 'addc'
+    'body': '${1:ctx}.addColorStop(${2:position}, ${3:rgba(0, 0, 0, 1.0)});'

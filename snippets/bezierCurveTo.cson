@@ -1,0 +1,4 @@
+'.source.js':
+  'CanvasSnippet bezierCurveTo':
+    'prefix': 'bc'
+    'body': '${1:ctx}.bezierCurveTo(${2:cp1x}, ${3:cp1y}, ${4:cp2x}, ${5:cp2y}, ${6:x}, ${7:y});'

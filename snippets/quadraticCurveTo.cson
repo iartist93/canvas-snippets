@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet quadraticCurveTo':
+    'prefix': 'qc'
+    'body': '${1:ctx}.quadraticCurveTo(${2:cp1x}, ${3:cp1y}, ${4:x}, ${5:y});'

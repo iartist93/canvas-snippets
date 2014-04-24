@@ -1,0 +1,22 @@
+{
+  "name": "canvas-snippets",
+  "version": "0.1",
+  "main": "./lib/snippets",
+  "description": "Html5 canvas snippets for Atom",
+  "repository": "https://github.com/atom/snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "async": "~0.2.6",
+    "emissary": "1.x",
+    "fs-plus": "2.x",
+    "loophole": "^0.1.0",
+    "pathwatcher": "^1.0",
+    "pegjs": "~0.8.0",
+    "season": "1.x",
+    "temp": "~0.6.0",
+    "underscore-plus": "1.x"
+  }
+}

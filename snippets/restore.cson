@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet restore':
+    'prefix': 'restore'
+    'body': '${1:ctx}.restore();'

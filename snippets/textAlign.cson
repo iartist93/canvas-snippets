@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet textAlign':
+    'prefix': 'textal'
+    'body': '${1:ctx}.textAlign = "${2:start/center/end/left/right}";'

@@ -1,0 +1,4 @@
+'.source.js':
+  'CanvasSnippet closePath':
+    'prefix': 'cpath'
+    'body': '${1:ctx}.closePath();'

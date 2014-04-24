@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet getContext':
+    'prefix': 'getContext'
+    'body': "var ctx = ${1:canvas}.getContext('${2:2d}');"

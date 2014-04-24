@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet drawImage':
+    'prefix': 'draw'
+    'body': '${1:ctx}.drawImage(${2:image}, ${3:x}, ${4:y});'

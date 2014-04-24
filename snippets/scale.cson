@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet scale':
+    'prefix': 'scale'
+    'body': '${1:ctx}.scale(${2:x}, ${3:y});'

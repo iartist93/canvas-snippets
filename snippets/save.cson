@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet save':
+    'prefix': 'save'
+    'body': '${1:ctx}.save();'

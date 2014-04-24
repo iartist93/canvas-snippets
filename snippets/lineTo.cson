@@ -1,0 +1,4 @@
+'.source.js':
+  'Snippet LineTo':
+    'prefix': 'lineto'
+    'body': '${1:ctx}.lineTo(${2:x}, ${3:y});'

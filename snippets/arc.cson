@@ -1,0 +1,4 @@
+'.source.js':
+  'CanvasSnippets arc':
+    'prefix': 'arc'
+    'body': '${1:ctx}.arc(${2:x}, ${3:y}, ${4:radius}, ${5:startAngle}, ${6:endAngle}, ${7:anticlockwise});'
